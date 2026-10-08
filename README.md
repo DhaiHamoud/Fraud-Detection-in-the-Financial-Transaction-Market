@@ -10,9 +10,9 @@
 
 ## البيانات 
 - المصدر: [Kaggle - Credit Card Transactions Fraud Detection](https://www.kaggle.com/datasets/kartik2112/fraud-detection)
-- الملف: fraudTest.csv
-- الفترة الزمنية: من 21 يونيو 2020 إلى 31 ديسمبر 2020
-- عدد الصفوف: 555,719
+- الملفات: fraudTrain.csv , fraudTest.csv
+- الفترة الزمنية: من 1 يناير 2019 إلى 31 ديسمبر 2020
+- عدد الصفوف: 1,852,394
 - عدد الأعمدة: 23
 - الصيغة: CSV
 - ملاحظة: بيانات مُحاكاة وليست لعملاء حقيقيين

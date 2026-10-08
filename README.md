@@ -1,33 +1,28 @@
 # Fraud-Detection-in-the-Financial-Transaction-Market
-<div dir="rtl">
+# Monitoring a Fraud Detection Model Over Time
 
-# مراقبة نموذج كشف الاحتيال عبر الزمن
-مشروع علم بيانات نبني فيه نموذجاً يكشف الاحتيال في عمليات البطاقات الائتمانية، ثم نتابع هل تبقى دقته ثابتة مع مرور الوقت.
+A data science project where we build a model to detect fraud in credit card transactions, then track whether its accuracy holds up over time.
 
+## Question
+Does a fraud detection model stay accurate over time, and if it weakens, why? The answer matters to banks and risk management teams that rely on these models every day.
 
-## السؤال 
-هل يبقى نموذج كشف الاحتيال دقيقاً مع مرور الوقت، وإذا ضعف فما السبب؟ الجواب يهم البنوك وفرق إدارة المخاطر التي تعتمد على هذه النماذج يومياً.
+## Data
+- **Source:** [Kaggle - Credit Card Transactions Fraud Detection](https://www.kaggle.com/datasets/kartik2112/fraud-detection)
+- **Files:** fraudTrain.csv and fraudTest.csv (combined)
+- **Time period:** January 1, 2019 to December 31, 2020
+- **Rows:** 1,852,394
+- **Columns:** 23
+- **Format:** CSV
+- **Note:** Simulated data, not real customers
 
-## البيانات 
-- المصدر: [Kaggle - Credit Card Transactions Fraud Detection](https://www.kaggle.com/datasets/kartik2112/fraud-detection)
-- الملفات: fraudTrain.csv , fraudTest.csv
-- الفترة الزمنية: من 1 يناير 2019 إلى 31 ديسمبر 2020
-- عدد الصفوف: 1,852,394
-- عدد الأعمدة: 23
-- الصيغة: CSV
-- ملاحظة: بيانات مُحاكاة وليست لعملاء حقيقيين
-
-## الفريق 
-- ضي الخماش
-- جود اليوسف
-- فيصل المجلي
-- ريان الزير
-- لانا الحسيني
-- تركي المعيلي
+## Team
+- Dhai Alkhammash
+- Faisal Almejalli
+- Joud Alyousef
+- Lana Alhussaini
+- Rayan Alzeer
+- Turki Almuayli
 - 
 
-## الحالة
-الأسبوع 1 — تجهيز
-
-</div>
-
+## Status
+Week 1 — Setup

@@ -22,7 +22,7 @@ Does a fraud detection model stay accurate over time, and if it weakens, why? Th
 - Lana Alhussaini
 - Rayan Alzeer
 - Turki Almuayli
-- 
+- Abdulmohsen Alsalamah
 
 ## Status
 Week 1 — Setup

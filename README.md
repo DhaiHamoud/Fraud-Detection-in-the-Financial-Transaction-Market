@@ -25,5 +25,5 @@ Does a fraud detection model stay accurate over time, and if it weakens, why? Th
 - Abdulmohsen Alsalamah
 
 ## Status
-Week 1 — Setup
-Week 2 — Data Cleaning 
+- Week 1 — Setup
+- Week 2 — Data Cleaning

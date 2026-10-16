@@ -14,6 +14,7 @@ Does a fraud detection model stay accurate over time, and if it weakens, why? Th
 - **Columns:** 23
 - **Format:** CSV
 - **Note:** Simulated data, not real customers
+- **Clean data:** see [data/processed](data/processed)
 
 ## Team
 - Dhai Alkhammash

@@ -28,3 +28,6 @@ Does a fraud detection model stay accurate over time, and if it weakens, why? Th
 ## Status
 - Week 1 — Setup
 - Week 2 — Data Cleaning
+- Week 3 — Exploratory Data Analysis (EDA)
+- Week 4 — Feature Engineering
+- Week 5 — Modeling & Evaluation
